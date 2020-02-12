@@ -9331,7 +9331,8 @@
             "SPI",
             "STDIO_MESSAGES",
             "USTICKER",
-            "MPU"
+            "MPU",
+			"RTC"
         ],
         "features": [
             "BLE"
